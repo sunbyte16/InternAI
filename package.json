@@ -2,9 +2,9 @@
   "name": "internai-recommendation-engine",
   "version": "1.0.0",
   "type": "module",
-  "description": "AI-Based Internship Recommendation Engine for Students",
+  "description": "InternAI",
   "main": "index.js",
-  "homepage": "https://sunbyte16.github.io/Al-Based-Internship-Recommendation-Engine/",
+  "homepage": "https://sunbyte16.github.io/InternAI/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
