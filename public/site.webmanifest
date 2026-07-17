@@ -1,0 +1,25 @@
+{
+  "name": "InternAI - AI-Based Internship Recommendation Engine",
+  "short_name": "InternAI",
+  "description": "Find your perfect internship with advanced AI matching algorithm",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4F46E5",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["education", "productivity", "business"],
+  "lang": "en",
+  "dir": "ltr"
+}
