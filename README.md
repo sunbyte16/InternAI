@@ -433,7 +433,7 @@ Complete your profile across **4 comprehensive sections**:
 
 ---
 
-*© 2k25 InternAI. All rights reserved.*
+*© 2k26 InternAI. All rights reserved.*
 
 </div>#
 
